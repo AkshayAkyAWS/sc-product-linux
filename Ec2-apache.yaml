@@ -5,7 +5,7 @@
             "ParameterGroups": [
                 {
                     "Label": {
-                        "default": "Network Configuration"
+                        "default": "Network Configuration v2"
                     },
                     "Parameters": [
                         "VPC",
